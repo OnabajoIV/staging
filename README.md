@@ -1,4 +1,4 @@
-Hello, My Name is Adedapo Onabajo
+
 # java-tomcat-maven-example
 
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
@@ -53,4 +53,4 @@ The application will be available on `http://localhost:8080`.
      </plugins>
    </build>
    ```
-MY NAME IS "YOUR NAME"
+MY NAME IS "ADEDAPO ONABAJO"
